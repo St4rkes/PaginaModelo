@@ -1,3 +1,51 @@
 body{
-    background-color: blueviolet;
+    background-color: antiquewhite;
+}
+
+.navbar{
+    background-color: rgb(10, 41, 41);
+    display: flex;
+    align-items: center;
+    
+}
+
+.menu{
+    color: antiquewhite;
+    font-weight: 500;
+   display: block;
+    
+    
+
+}
+
+.meioTela{
+    background-color: rgb(14, 55, 61);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+}
+
+.meioTela > label{
+    color: rgb(179, 126, 58);
+    
+}
+
+.nav-produtos{
+    background-color: brown;
+}
+
+.produto{
+    background-color: aqua;
+    margin: 10px;
+}
+
+.direito{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+}
+
+.vermelho{
+    color: rgb(122, 165, 42);
 }
