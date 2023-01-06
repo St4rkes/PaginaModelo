@@ -46,6 +46,25 @@ body{
     justify-content: center;
 }
 
-.vermelho{
+.verde{
     color: rgb(122, 165, 42);
+}
+
+.vermelho{
+    color: rgb(202, 49, 49);
+}
+
+.bordas{
+    border-color: red green blue pink;
+    border-width: 8px 10px 8px 10px;
+    border-style: solid double;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50pt;
+}
+
+.bordas > label{
+    color: chartreuse;
+    font-size: 60px;
 }
