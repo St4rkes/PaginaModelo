@@ -9,6 +9,7 @@ body{
     
 }
 
+
 .menu{
     color: antiquewhite;
     font-weight: 500;
@@ -41,6 +42,16 @@ body{
     display: block;
     width: 700px;
    
+}
+
+.navbar-imagem2 > img{
+    padding-left: 365px;
+    width: 200px;
+    height: auto;
+}
+
+.menu{
+    padding-left: 450px;
 }
 
 .produto{
