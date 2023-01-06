@@ -36,6 +36,13 @@ body{
    
 }
 
+.nav-produtos2{
+    background-color: brown;
+    display: block;
+    width: 700px;
+   
+}
+
 .produto{
     display: flex;
     justify-content: center;
@@ -44,6 +51,17 @@ body{
     width: auto;
     height: auto;
     margin: 10px;
+}
+
+.produto2{
+ 
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+    width: 700px;
+    height: 472px;
+    margin-left: 320px;
+    
 }
 
 .direito{
@@ -83,15 +101,16 @@ body{
 }
 
 .produto > img{
-padding: 2px;
-padding-left: ;
-
-width: 662px;
-height: auto;
+    padding: 2px;
+    width: 662px;
+    height: auto;
 
 }
 
-.produto2 {
-    display: flex;
-    width: 40%;
+.produto2 > img{
+    padding: 3px;
+    width: 695px;
+    height:auto;
+    
+    
 }
